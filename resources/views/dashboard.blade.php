@@ -67,9 +67,9 @@
               <thead>
                 <tr>
                   <th colspan="7">
-                    <span class=" btn-group" >
+                    <span class=" btn-group">
                       <a class="btn"><i class="icon-chevron-left"></i></a>
-                      <a class="btn active" style="width:120%;" >February 2012</a>
+                      <a class="btn active" style="width:120%;">February 2012</a>
                       <a class="btn"><i class="icon-chevron-right"></i></a>
                     </span>
                   </th>
@@ -171,7 +171,7 @@
             <div class="col-8">
               <div class="card-body text-center" style="margin-left:79px;">
                 <h4 class="mb-0">IPK</h4>
-                <p class="text-muted">3.8</p>
+                <p class="text-muted">3.9</p>
                 <h4 class="mb-0">SKS</h4>
                 <p class="text-muted">86</p>
               </div>
