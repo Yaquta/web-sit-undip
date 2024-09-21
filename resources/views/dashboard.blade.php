@@ -145,7 +145,7 @@
                 <div class="d-flex justify-content-between align-items-center mt-4 px-5">
                   <div class="stats">
                     <h4 class="mb-0 ">Semester Akademik Sekarang</h4>
-                    <span>2023/2024 Ganjil</span>
+                    <span>2024/2025 Ganjil</span>
                   </div>
                   <div class="stats">
                     <h4 class="mb-0 px-2">Semester</h4>
