@@ -5,7 +5,7 @@ use App\Http\Controllers\AuthManager;
 
 
 Route::get('/', function () {
-    return view('dashboard');
+    return view('login');
 });
 
 

@@ -24,22 +24,17 @@
         </div>
       </div>
       <!-- Header hanya muncul saat user login -->
-
       <div class="w-full px-4 py-10 pt-6 sm:px-6 md:px-8 lg:ps-72" bis_skin_checked="1">
-
         @yield('content')
-
       </div>
     </div>
-
-    @endauth
-
-    <!-- Main Content -->
-    <div class="col acontent">
-      @yield('acontent')
-    </div>
   </div>
-  </div>
+  
+  
+  @endauth
+
+<!-- Main Content -->
+  @yield('acontent')
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>

@@ -2,7 +2,7 @@
 @section('title', 'Login')
 @section('acontent')
 
-<section class="vh-100 background" style="background-image: url('/img/back-ground-log-sign.jpg'); background-size: cover; background-position: center;">
+<section class="vh-100 background w-full" style="background-image: url('/img/back-ground-log-sign.jpg'); background-size: cover; background-position: center;">
   <div class="container h-100 d-flex justify-content-center align-items-center">
     <div class="row justify-content-center align-items-center w-100">
       <div class="col-12 col-md-8 col-lg-6 col-xl-5">
