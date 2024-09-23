@@ -10,7 +10,7 @@
   <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
   <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
   <title>@yield('title', 'Webpage SIT')</title>
-
+  
 </head>
 
 <body>
