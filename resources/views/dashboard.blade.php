@@ -41,7 +41,7 @@
                   <p class="mb-0">NIM</p>
                 </div>
                 <div class="col-sm-9">
-                  <p class="text-muted mb-0">242345678</p>
+                  <p class="text-muted mb-0">242345678000</p>
                 </div>
               </div>
               <hr>
