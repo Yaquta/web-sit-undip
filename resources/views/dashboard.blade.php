@@ -19,7 +19,9 @@
                   <p class="mb-0">Nama Lengkap</p>
                 </div>
                 <div class="col-sm-9">
-                  <p class="text-muted mb-0">Mulyono Widodo</p>
+                  <p class="text-muted mb-0">
+                    {{auth()->user()->name}}
+                  </p>
                 </div>
               </div>
               <hr>
@@ -28,7 +30,9 @@
                   <p class="mb-0">Email</p>
                 </div>
                 <div class="col-sm-9">
-                  <p class="text-muted mb-0">mulyado@student.sundip.ac.id</p>
+                  <p class="text-muted mb-0">
+                  {{auth()->user()->email}}
+                  </p>
                 </div>
               </div>
               <hr>
